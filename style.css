@@ -1,0 +1,225 @@
+#b1{
+    -fx-background-color:transparent;
+    -fx-text-fill:white;
+}
+#b2{
+    -fx-background-color:transparent;
+    -fx-text-fill:white;
+}
+#b3{
+    -fx-background-color:transparent;
+    -fx-text-fill:white;
+}
+#b4{
+    -fx-background-color:transparent;
+    -fx-text-fill:white;
+}
+#b5{
+    -fx-background-color:transparent;
+    -fx-text-fill:white;
+}
+#b6{
+    -fx-background-color:transparent;
+    -fx-text-fill:white;
+}
+
+#dropdown{
+   -fx-background-color:transparent;  
+    
+}
+
+.titled-pane:expanded .content{
+      -fx-background-color:transparent;  
+    -fx-border-color:transparent;
+}
+
+.titled-pane .title{
+    
+    
+     -fx-background-color:transparent;  
+}
+
+
+#scan{
+    -fx-border-radius:250;
+    -fx-background-radius:250;
+     -fx-background-color:#00AEEF;
+     -fx-text-fill:white;
+}
+#scan:hover{
+    -fx-border-width:3;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('Montserrat-Regular.ttf');
+}
+
+.text {
+    -fx-font-family: "Mont";
+}
+.button .text{
+    
+    -fx-font-family: "Mont";
+    -fx-font-weight: bold;
+}
+
+.label .text{
+    
+      -fx-font-family: "Mont";
+}
+.titled-pane .title .text{
+    
+    -fx-font-weight: bold;
+}
+
+
+
+#q{
+    -fx-border-radius:250;
+    -fx-background-radius:250;
+     -fx-background-color:#00AEEF;
+     -fx-text-fill:white;
+}
+#q:hover{
+   -fx-border-width:3;
+   
+  
+    
+}
+#w{
+    -fx-border-radius:250;
+    -fx-background-radius:250;
+     -fx-background-color:#00AEEF;
+     -fx-text-fill:white;
+}
+#w:hover{
+     
+    
+    -fx-border-color:#00AEEF;
+    -fx-background-color:white;
+    -fx-text-fill:#00AEEF;
+    
+    
+}
+#e{
+    -fx-border-radius:250;
+    -fx-background-radius:250;
+     -fx-background-color:#00AEEF;
+     -fx-text-fill:white;
+}
+#e:hover{
+    
+    
+    -fx-border-width:3;
+}
+#r{
+    -fx-border-radius:250;
+    -fx-background-radius:250;
+     -fx-background-color:#00AEEF;
+     -fx-text-fill:white;
+}
+#r:hover{
+    
+    
+    -fx-border-width:3;
+}
+#t{
+    -fx-border-radius:250;
+    -fx-background-radius:250;
+     -fx-background-color:#00AEEF;
+     -fx-text-fill:white;
+}
+#t:hover{
+    
+    
+    -fx-border-width:3;
+}
+#y{
+    -fx-border-radius:250;
+    -fx-background-radius:250;
+     -fx-background-color:#00AEEF;
+     -fx-text-fill:white;
+}
+#y:hover{
+    -fx-border-color:#00AEEF;
+    -fx-background-color:white;
+    -fx-text-fill:#00AEEF;
+}
+
+#ignore{
+    -fx-border-radius:250;
+    -fx-background-radius:250;
+     -fx-background-color:#00AEEF;
+     -fx-text-fill:white;
+}
+#ignore:hover{
+    
+    
+    -fx-border-width:3;
+}
+#installUpdates{
+    -fx-border-radius:250;
+    -fx-background-radius:250;
+     -fx-background-color:#00AEEF;
+     -fx-text-fill:white;
+}
+#installUpdates:hover{
+    -fx-border-color:#00AEEF;
+    -fx-background-color:white;
+    -fx-text-fill:#00AEEF;
+}
+
+#u{
+    -fx-border-radius:250;
+    -fx-background-radius:250;
+     -fx-background-color:#00AEEF;
+     -fx-text-fill:white;
+}
+#u:hover{
+    -fx-border-width:3;
+}
+
+#updateNow{
+    -fx-border-radius:250;
+    -fx-background-radius:250;
+     -fx-background-color:#00AEEF;
+     -fx-text-fill:white;
+}
+#updateNow:hover{
+    -fx-border-width:3;
+}
+
+#clearHistory{
+    -fx-border-radius:250;
+    -fx-background-radius:250;
+}
+#clearHistory:hover{
+    -fx-border-width:3;
+}
+
+#i{
+    -fx-border-radius:250;
+    -fx-background-radius:250;
+     -fx-background-color:#00AEEF;
+     -fx-text-fill:white;
+}
+#i:hover{
+    
+    
+    -fx-border-width:3;
+}
+
+
+
+
+#min:hover{
+    -fx-text-fill:#00AEEF;
+    -fx-font-size:13;
+    
+}
+#max:hover{
+    
+    -fx-text-fill:#00AEEF;
+    -fx-font-size:13;
+}
