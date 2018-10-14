@@ -1,5 +1,3 @@
-GitHub Link: https://github.com/cgopi/VirusREM_AREnterprise
-
 1. Search Functionality:
 -----------------------
 File Name: FXMLDocumentController.java
@@ -35,7 +33,7 @@ Method Name: getVirusSearchList()
 
 Lines for list of registry keys: From 84 to 131
 
-5. Virus Reporting Functionlity:
+5. Virus Reporting Functionality:
 -------------------------------
 File Name: FXMLDocumentController.java
 Method Name: createWorker()
