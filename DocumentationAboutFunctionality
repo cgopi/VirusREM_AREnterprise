@@ -1,0 +1,43 @@
+GitHub Link: https://github.com/cgopi/VirusREM_AREnterprise
+
+1. Search Functionality:
+-----------------------
+File Name: FXMLDocumentController.java
+Method Name: createWorker()
+
+Lines for scanning or searching the viruses: From 1200 to 1284
+
+2. Detect Functionality:
+-----------------------
+File Name: FXMLDocumentController.java
+Method Name: createWorker()
+
+Lines for detecting the viruses: From 1286 to 1302
+
+3. Virus Signatures:
+-------------------
+Adware & Toolbars
+CoolWebSearch
+Potentially Unwanted App
+Other Types of Viruses
+
+4. Viruses List:
+---------------
+File Name: VirusCache.java
+Method Name: getAllViruses()
+
+Lines for list of viruses: From 24 to 1072
+
+5. Registry Keys:
+----------------
+File Name: VirusRegistry.java
+Method Name: getVirusSearchList()
+
+Lines for list of registry keys: From 84 to 131
+
+5. Virus Reporting Functionlity:
+-------------------------------
+File Name: FXMLDocumentController.java
+Method Name: createWorker()
+
+Lines for viruses reporting to GUI: From 1376 to 1385
